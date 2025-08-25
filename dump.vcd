@@ -1,0 +1,6 @@
+initial begin
+    $dumpfile("dump.vcd");
+    $dumpvars(0, testbench);
+end
+🔹 It stores all signal transitions over time.
+🔹 Tools like EPWave or GTKWave open this file to display waveforms.
