@@ -5,4 +5,4 @@ This project implements a **4-bit up-counter** in SystemVerilog and demonstrates
 **Tools Used:** SystemVerilog, Icarus Verilog, EPWave/GTKWave, Linux Shell, GVim  
 **Files:** `design.sv` (RTL), `testbench.sv` (verification), `run.sh` (automation), `dump.vcd` (waveform), `Screenshot.png` (example output)  
 
-![Waveform](Screenshot(62).png)
+(Screenshot(62).png)
